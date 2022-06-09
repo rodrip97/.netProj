@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QOPnPb20LHbmSeK3QmFcOrjkp6WNs7eODLSUrzMCksuvZbQ5hIIgXuJObCu0VBTAu23IovCCif/fbAenznazTg==",
+  "dgSpecHash": "A9c6OvnaX2ielj14KkB9+zgRnM80qpaF5JG8wDpjeENAZmC/vVtnF6u/8fHCKDKfBz7dZH8qIUZpvL1tlaO8Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RodrigoPinto\\desktop\\.netproj\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\RodrigoPinto\\Desktop\\.NetProj\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RodrigoPinto\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\RodrigoPinto\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
